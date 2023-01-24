@@ -1,0 +1,13 @@
+.btn{
+    background-color: rgb(137, 103, 103);
+    color: aliceblue;
+}
+.banner-text{
+position: relative;
+right: 100px;
+bottom: 400px;
+text-align: center;
+}
+.solution{
+    font-size: 4rem;
+}
